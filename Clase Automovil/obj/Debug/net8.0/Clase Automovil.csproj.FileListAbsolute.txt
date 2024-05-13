@@ -1,0 +1,14 @@
+C:\Users\bryan\source\repos\Clase Automovil\bin\Debug\net8.0\Clase Automovil.exe
+C:\Users\bryan\source\repos\Clase Automovil\bin\Debug\net8.0\Clase Automovil.deps.json
+C:\Users\bryan\source\repos\Clase Automovil\bin\Debug\net8.0\Clase Automovil.runtimeconfig.json
+C:\Users\bryan\source\repos\Clase Automovil\bin\Debug\net8.0\Clase Automovil.dll
+C:\Users\bryan\source\repos\Clase Automovil\bin\Debug\net8.0\Clase Automovil.pdb
+C:\Users\bryan\source\repos\Clase Automovil\obj\Debug\net8.0\Clase Automovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\source\repos\Clase Automovil\obj\Debug\net8.0\Clase Automovil.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\Clase Automovil\obj\Debug\net8.0\Clase Automovil.AssemblyInfo.cs
+C:\Users\bryan\source\repos\Clase Automovil\obj\Debug\net8.0\Clase Automovil.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\Clase Automovil\obj\Debug\net8.0\Clase Automovil.dll
+C:\Users\bryan\source\repos\Clase Automovil\obj\Debug\net8.0\refint\Clase Automovil.dll
+C:\Users\bryan\source\repos\Clase Automovil\obj\Debug\net8.0\Clase Automovil.pdb
+C:\Users\bryan\source\repos\Clase Automovil\obj\Debug\net8.0\Clase Automovil.genruntimeconfig.cache
+C:\Users\bryan\source\repos\Clase Automovil\obj\Debug\net8.0\ref\Clase Automovil.dll
